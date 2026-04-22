@@ -1,0 +1,11 @@
+
+<persona dni="12345678A">
+
+<nom>Laura</nom>
+<edat>23</edat>
+<ciutat>Barcelona</ciutat>
+<aficio>llepar varanes</aficio>
+<aficio>menjar xocolata</aficio>
+<nivell>alt</nivell>
+
+</persona>
