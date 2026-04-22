@@ -1,0 +1,8 @@
+<alumne id="1">
+  <nom>Victor</nom>
+  <cognom>Gil</cognom>
+  <telefon>695553472</telefon>
+  <email>victor@email.com</email>
+  <modul>Llenguatge de marques</modul>
+  <modul>Perruqueria canina</modul>
+</alumne>
