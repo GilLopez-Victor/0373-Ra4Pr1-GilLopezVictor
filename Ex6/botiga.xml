@@ -1,0 +1,20 @@
+<botiga>
+
+<producte id="P1" estat="nou">
+<nom>Profilactic XXL DDR4</nom>
+<preu>6.99</preu>
+<stock>10</stock>
+<categoria>informatica</categoria>
+<marca>Durex Tech</marca>
+<etiqueta>gaming</etiqueta>
+</producte>
+
+<producte id="P2" estat="oferta">
+<nom>Cogombre llegant</nom>
+<preu>3.50</preu>
+<stock>40</stock>
+<categoria>joguines</categoria>
+<etiqueta>fantasia</etiqueta>
+</producte>
+
+</botiga>
