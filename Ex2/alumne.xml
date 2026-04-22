@@ -1,4 +1,4 @@
-<alumne id="1">
+<alumne id="1" tipus="presencial">
   <nom>Victor</nom>
   <cognom>Gil</cognom>
   <telefon>695553472</telefon>

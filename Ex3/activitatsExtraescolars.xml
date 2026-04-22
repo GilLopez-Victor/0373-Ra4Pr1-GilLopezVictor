@@ -1,0 +1,23 @@
+<activitats>
+
+  <activitat codi="1" tipus="esportiva">
+    <nom>Tamborí</nom>
+    <monitor>Pau</monitor>
+    <horari>18:00</horari>
+    <participant>Tamara</participant>
+    <participant>Marc</participant>
+    <lloc>
+      <exterior>pati</exterior>
+    </lloc>
+  </activitat>
+
+  <activitat codi="2" tipus="artistica">
+    <nom>Pandereta</nom>
+    <monitor>Laura</monitor>
+    <participant>Gina</participant>
+    <lloc>
+      <interior>aula 1</interior>
+    </lloc>
+  </activitat>
+
+</activitats>
